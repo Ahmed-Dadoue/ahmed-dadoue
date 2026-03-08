@@ -1,56 +1,41 @@
-# Ahmed Dadoue
+Ahmed Dadoue
 
-AI enthusiast, project builder, and future-focused developer.
+Developer, project builder, and technology-driven problem solver.
 
-## About Me
-I am interested in Artificial Intelligence, Data Science, backend development, and practical software solutions.  
-My focus is on learning by building real projects and turning ideas into useful systems.
+About Me
+I am focused on software development, backend systems, data-driven applications, and practical digital solutions.
+My approach is based on learning by building real projects and turning ideas into structured, useful systems.
 
-I enjoy combining technology, logic, and business thinking to create meaningful work.
+I am especially interested in Python development, APIs, backend architecture, automation, and applied AI.
+I enjoy combining technology, logic, and business thinking to create projects with real-world value.
 
-## Tech Stack
+Tech Stack
 - Python
 - FastAPI
-- Machine Learning
 - REST APIs
+- Machine Learning
+- Data Analysis
 - Docker
 - Git & GitHub
-- Data Analysis
 - HTML / CSS
 
-## What I Built
+Projects
+Stickerei Dadoue
+A professional embroidery business focused on custom embroidery for clothing, workwear, and brands.
+Website: https://www.stickerei-dadoue.de
 
-### Stickerei Dadoue
-A professional embroidery service focused on custom embroidery for clothing, workwear, and brands.
+Stickdatei Dadoue
+A digital platform for embroidery files and custom embroidery design solutions for embroidery machines.
+Website: https://www.stickdatei-dadoue.de
 
-Website  
-https://www.stickerei-dadoue.de
+Klarumzug24
+A digital platform designed to simplify moving services by connecting customers with moving companies and improving request handling through structured digital workflows.
+Website: https://klarumzug24.de
 
+Profiles
+GitHub: https://github.com/Ahmed-Dadoue
+LinkedIn: https://www.linkedin.com/in/ahmed-dadoue-7ab95260/
+Kaggle: https://www.kaggle.com/emsibaddung13579
 
-### Stickdatei Dadoue
-A platform for digital embroidery files and embroidery design creation for embroidery machines.
-
-Website  
-https://www.stickdatei-dadoue.de
-
-
-### Klarumzug24
-A digital platform designed to simplify moving services by connecting customers with moving companies and automating the request process.
-
-Website  
-https://klarumzug24.de
-
-
-## GitHub Stats
-https://github.com/Ahmed-Dadoue
-
-## Social Media
-LinkedIn  
-https://www.linkedin.com/in/ahmed-dadoue-7ab95260/
-
-Kaggle  
-https://www.kaggle.com/emsibaddung13579
-
-
-## Quote
-> Learn deeply. Build seriously. Improve constantly.
+Principle
+Learn deeply. Build seriously. Improve constantly.
