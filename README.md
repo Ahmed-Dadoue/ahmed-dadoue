@@ -42,17 +42,14 @@ https://klarumzug24.de
 
 
 ## GitHub Stats
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmed-dadoue&show_icons=true&theme=dark)
-
-## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-dadoue&layout=compact&theme=dark)
+https://github.com/Ahmed-Dadoue
 
 ## Social Media
 LinkedIn  
-[https://www.linkedin.com/in/ahmed-dadoue/](https://www.linkedin.com/in/ahmed-dadoue-7ab95260/)
+https://www.linkedin.com/in/ahmed-dadoue-7ab95260/
 
 Kaggle  
-[https://www.kaggle.com/https://www.kaggle.com/emsibaddung13579](https://www.kaggle.com/emsibaddung13579)
+https://www.kaggle.com/emsibaddung13579
 
 
 ## Quote
