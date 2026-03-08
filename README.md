@@ -49,10 +49,10 @@ https://klarumzug24.de
 
 ## Social Media
 LinkedIn  
-https://www.linkedin.com/in/ahmed-dadoue/
+[https://www.linkedin.com/in/ahmed-dadoue/](https://www.linkedin.com/in/ahmed-dadoue-7ab95260/)
 
 Kaggle  
-https://www.kaggle.com/
+[https://www.kaggle.com/https://www.kaggle.com/emsibaddung13579](https://www.kaggle.com/emsibaddung13579)
 
 
 ## Quote
