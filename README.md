@@ -36,6 +36,6 @@ Profiles
 GitHub: https://github.com/Ahmed-Dadoue
 LinkedIn: https://www.linkedin.com/in/ahmed-dadoue-7ab95260/
 Kaggle: https://www.kaggle.com/emsibaddung13579
-
+Ixing: https://www.xing.com/profile/Ahmed_Dadoue/web_profiles?nwt_nav=profile_icon
 Principle
 Learn deeply. Build seriously. Improve constantly.
