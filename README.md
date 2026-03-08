@@ -12,10 +12,10 @@
 - APIs
 
 ## 📊 GitHub Stats
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmed-dadoue&show_icons=true&theme=dark)
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?ahmed-dadoue&show_icons=true&theme=dark)
 
 ## 🔥 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-dadoue&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?ahmed-dadoue&layout=compact&theme=dark)
 
 ## 📫 Contact
 - Website: https://klarumzug24.de
