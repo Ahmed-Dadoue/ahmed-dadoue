@@ -1,47 +1,59 @@
-# Hi there, I'm Ahmed Dadoue 👋
+# Ahmed Dadoue
 
-## 🚀 About Me
-I am passionate about Artificial Intelligence, Data Science, and software development.  
-I enjoy building practical projects with Python, FastAPI, APIs, and Machine Learning.  
-My goal is to grow into a strong developer by learning deeply and building useful real-world solutions.
+AI enthusiast, project builder, and future-focused developer.
 
-## 🧠 Interests
-- Artificial Intelligence
-- Machine Learning
-- Data Science
-- Backend Development
-- Automation
-- Software Projects
+## About Me
+I am interested in Artificial Intelligence, Data Science, backend development, and practical software solutions.  
+My focus is on learning by building real projects and turning ideas into useful systems.
 
-## 🛠️ Tech Stack
+I enjoy combining technology, logic, and business thinking to create meaningful work.
+
+## Tech Stack
 - Python
 - FastAPI
-- Git & GitHub
-- Docker
-- REST APIs
-- HTML / CSS
-- Data Analysis
 - Machine Learning
+- REST APIs
+- Docker
+- Git & GitHub
+- Data Analysis
+- HTML / CSS
 
-## 📌 Current Focus
-- Building real projects
-- Improving backend development skills
-- Learning AI step by step
-- Creating a strong GitHub portfolio
+## What I Built
 
-## 📊 GitHub Stats
+### Stickerei Dadoue
+A professional embroidery service focused on custom embroidery for clothing, workwear, and brands.
+
+Website  
+https://www.stickerei-dadoue.de
+
+
+### Stickdatei Dadoue
+A platform for digital embroidery files and embroidery design creation for embroidery machines.
+
+Website  
+https://www.stickdatei-dadoue.de
+
+
+### Klarumzug24
+A digital platform designed to simplify moving services by connecting customers with moving companies and automating the request process.
+
+Website  
+https://klarumzug24.de
+
+
+## GitHub Stats
 ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmed-dadoue&show_icons=true&theme=dark)
 
-## 🔥 Most Used Languages
+## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-dadoue&layout=compact&theme=dark)
 
-## 🌍 Connect With Me
-- Website: https://www.stickdatei-dadoue.de/
-- LinkedIn: https://www.linkedin.com/in/ahmed-dadoue/
-- Kaggle: https://www.kaggle.com/
+## Social Media
+LinkedIn  
+https://www.linkedin.com/in/ahmed-dadoue/
 
-## ✨ Personal Note
-I believe in progress through discipline, consistency, and real practice.  
-Step by step, project by project.
+Kaggle  
+https://www.kaggle.com/
 
-> Keep building. The code speaks louder than words.
+
+## Quote
+> Learn deeply. Build seriously. Improve constantly.
